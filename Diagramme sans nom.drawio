@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.10">
   <diagram name="Page-1" id="sJFbLXoHJP4PsMLdg7bV">
-    <mxGraphModel dx="7755" dy="3619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7031" dy="3129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,6 +182,9 @@
         </mxCell>
         <mxCell id="VI8j73H99hNZS_Z6-pfr-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-3370" y="-1080" width="1390" height="2310" as="geometry" />
+        </mxCell>
+        <mxCell id="VI8j73H99hNZS_Z6-pfr-15" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;[URL / ou /{slug}]&lt;br&gt;&amp;nbsp;&amp;nbsp; ↓&lt;br&gt;Route → Controller (unique)&lt;br&gt;&amp;nbsp;&amp;nbsp; ↓&lt;br&gt;Load :&lt;br&gt;&amp;nbsp; - Theme (dossier)&lt;br&gt;&amp;nbsp; - Website (main ou par domaine)&lt;br&gt;&amp;nbsp; - Navbar / Footer&lt;br&gt;&amp;nbsp; - Page content (blocks JSON)&lt;br&gt;&amp;nbsp; - Widgets éventuels&lt;br&gt;&amp;nbsp;&amp;nbsp; ↓&lt;br&gt;index.blade.php&lt;br&gt;&amp;nbsp;&amp;nbsp; ↓&lt;br&gt;&amp;lt;component /&amp;gt; ↔ &amp;lt;widget /&amp;gt; (rendu dynamique via includes)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3249" y="-970" width="710" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
