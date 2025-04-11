@@ -135,6 +135,9 @@
         <mxCell id="J8AIYy-TsQjEeJiYVx7a-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe Paragraphe &lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J8AIYy-TsQjEeJiYVx7a-97">
           <mxGeometry y="118.2195121951222" width="364.25" height="74.5528455284553" as="geometry" />
         </mxCell>
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-118" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=radial;glass=0;shadow=0;fillStyle=auto;strokeColor=none;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="830.74" width="940" height="279.26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
