@@ -62,7 +62,7 @@
         <mxCell id="J8AIYy-TsQjEeJiYVx7a-33" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=radial;glass=0;shadow=0;fillStyle=auto;fillColor=light-dark(default, #241f31);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="220" width="800" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=light-dark(#1BA1E2,#1A1A1A);sketch=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="290" width="343" height="230" as="geometry" />
         </mxCell>
       </root>
