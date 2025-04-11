@@ -172,7 +172,7 @@
           <mxGeometry x="2355" y="880" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VI8j73H99hNZS_Z6-pfr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-1090" width="1390" height="2310" as="geometry" />
+          <mxGeometry x="-310" y="-1085" width="1390" height="2310" as="geometry" />
         </mxCell>
         <mxCell id="VI8j73H99hNZS_Z6-pfr-12" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.wide_area_application_engine_2;" vertex="1" parent="1">
           <mxGeometry x="650" y="-180" width="50" height="45" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="-1830" y="-1080" width="1390" height="2310" as="geometry" />
         </mxCell>
         <mxCell id="VI8j73H99hNZS_Z6-pfr-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="-3380" y="-1090" width="1390" height="2310" as="geometry" />
+          <mxGeometry x="-3370" y="-1080" width="1390" height="2310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
