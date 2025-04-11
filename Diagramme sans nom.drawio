@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.2.10">
   <diagram name="Page-1" id="sJFbLXoHJP4PsMLdg7bV">
-    <mxGraphModel dx="1207" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2069" dy="2569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,29 +41,23 @@
         <mxCell id="J8AIYy-TsQjEeJiYVx7a-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="827" y="-170" width="800" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="885.5" y="-80" width="683" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-26" value="Bouton" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="J8AIYy-TsQjEeJiYVx7a-32">
-          <mxGeometry x="301.5" y="160" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-31" value="" style="group" vertex="1" connectable="0" parent="J8AIYy-TsQjEeJiYVx7a-32">
-          <mxGeometry width="683" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;font&gt;First thing we read&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J8AIYy-TsQjEeJiYVx7a-31">
-          <mxGeometry y="28" width="683" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-29" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;font&gt;Second thing we read&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J8AIYy-TsQjEeJiYVx7a-31">
-          <mxGeometry y="96" width="683" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="J8AIYy-TsQjEeJiYVx7a-30" value="&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;THIRD THING WE READ&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 204));&quot;&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J8AIYy-TsQjEeJiYVx7a-31">
-          <mxGeometry width="683" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="J8AIYy-TsQjEeJiYVx7a-33" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=radial;glass=0;shadow=0;fillStyle=auto;fillColor=light-dark(default, #241f31);strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="220" width="800" height="390" as="geometry" />
         </mxCell>
         <mxCell id="J8AIYy-TsQjEeJiYVx7a-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=light-dark(#1BA1E2,#1A1A1A);sketch=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="290" width="343" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-26" value="Bouton" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;font&gt;First thing we read&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885.5" y="-52" width="683" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-29" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;font&gt;Second thing we read&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885.5" y="16" width="683" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="J8AIYy-TsQjEeJiYVx7a-30" value="&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;THIRD THING WE READ&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 204));&quot;&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="885.5" y="-80" width="683" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
